@@ -1,5 +1,5 @@
 ﻿# hotels-rooftop-fullstack-mern-project
-![hotels-rooftop-fullstack-mern-project] ([/hotel-rooftop-cover](https://github.com/mdalmamunit427/hotels-rooftop-fullstack-mern-project/blob/main/hotel-rooftop-cover.png))
+![hotels-rooftop-fullstack-mern-project](https://github.com/mdalmamunit427/hotels-rooftop-fullstack-mern-project/blob/main/hotel-rooftop-cover.png)
 
 ## How to run this project:
 
