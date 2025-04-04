@@ -16,6 +16,7 @@
     "@editorjs/simple-image": "^1.6.0",
     "@reduxjs/toolkit": "^2.2.6",
     "editorjs-html": "^3.4.3",
+    "frontend": "file:",
     "js-cookie": "^3.0.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -36,6 +37,6 @@
     "eslint-plugin-react-refresh": "^0.4.7",
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.4",
-    "vite": "^5.3.1"
+    "vite": "^6.2.5"
   }
 }
